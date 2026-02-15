@@ -1,0 +1,77 @@
+{
+  "sessions": {
+    "sess_xisk4rysni_mln6j2bc": {
+      "facts": {},
+      "recent": [
+        {
+          "user": "hey",
+          "bot": "Hi there! What would you like to know? I can help with loads of topics.",
+          "topic": "hey",
+          "at": "2026-02-15T03:22:10.128937"
+        }
+      ],
+      "topics": [
+        "hey"
+      ],
+      "created": "2026-02-15T03:22:10.128925",
+      "updated": "2026-02-15T03:22:10.128944"
+    },
+    "sess_kvyij37zx59_mlnbwtxs": {
+      "facts": {},
+      "recent": [
+        {
+          "user": "hey",
+          "bot": "Hey! What can I do for you? Ask me about anything—science, history, animals, tech, or fun facts!",
+          "topic": "hey",
+          "at": "2026-02-15T05:52:56.360710"
+        },
+        {
+          "user": "hey",
+          "bot": "Hi there! What would you like to know? I can help with loads of topics.",
+          "topic": "hey",
+          "at": "2026-02-15T06:06:01.402524"
+        }
+      ],
+      "topics": [
+        "hey",
+        "hey"
+      ],
+      "created": "2026-02-15T05:52:56.360702",
+      "updated": "2026-02-15T06:06:01.402531"
+    },
+    "test": {
+      "facts": {},
+      "recent": [
+        {
+          "user": "hello",
+          "bot": "Hey! I'm Josiah. Ask me anything—science, math, history, writing tips, or how things work!",
+          "topic": "hello",
+          "at": "2026-02-15T19:49:59.410429"
+        },
+        {
+          "user": "what is 20 percent of 80",
+          "bot": "15% of 80 = 0.15 × 80 = 12. So the answer is 12.",
+          "topic": "20 percent of 80",
+          "at": "2026-02-15T19:50:08.921513"
+        },
+        {
+          "user": "how do i study better",
+          "bot": "Try the Pomodoro Technique: 25 minutes of focus, then a 5-minute break. Use active recall—test yourself instead of just re-reading. Spaced repetition (review after 1 day, 3 days, a week) really works.",
+          "topic": "do i study better",
+          "at": "2026-02-15T19:50:10.030379"
+        }
+      ],
+      "topics": [
+        "hello",
+        "20 percent of 80",
+        "do i study better"
+      ],
+      "created": "2026-02-15T19:49:59.410421",
+      "updated": "2026-02-15T19:50:10.030399"
+    }
+  },
+  "meta": {
+    "version": 1,
+    "last_updated": "2026-02-15T19:50:10.030405"
+  }
+}
